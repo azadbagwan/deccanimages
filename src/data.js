@@ -28,7 +28,7 @@ export default [
       id: "1"
     },
     fields: {
-      name: "single economy",
+      name: "Model 1",
       slug: "single-economy",
       type: "single",
       price: 100,
@@ -85,7 +85,7 @@ export default [
       id: "2"
     },
     fields: {
-      name: "single basic",
+      name: "Model 2",
       slug: "single-basic",
       type: "single",
       price: 150,
@@ -142,7 +142,7 @@ export default [
       id: "3"
     },
     fields: {
-      name: "single standard",
+      name: "Model 3",
       slug: "single-standard",
       type: "single",
       price: 250,
@@ -199,7 +199,7 @@ export default [
       id: "4"
     },
     fields: {
-      name: "single deluxe",
+      name: "Model 4",
       slug: "single-deluxe",
       type: "single",
       price: 300,
@@ -256,7 +256,7 @@ export default [
       id: "5"
     },
     fields: {
-      name: "double economy",
+      name: "Model 5",
       slug: "double-economy",
       type: "double",
       price: 200,
@@ -313,7 +313,7 @@ export default [
       id: "6"
     },
     fields: {
-      name: "double basic",
+      name: "Model 6",
       slug: "double-basic",
       type: "double",
       price: 250,
@@ -370,7 +370,7 @@ export default [
       id: "7"
     },
     fields: {
-      name: "double standard",
+      name: "Model 7",
       slug: "double-standard",
       type: "double",
       price: 300,
@@ -427,7 +427,7 @@ export default [
       id: "8"
     },
     fields: {
-      name: "double deluxe",
+      name: "Model 8",
       slug: "double-deluxe",
       type: "double",
       price: 400,
@@ -484,7 +484,7 @@ export default [
       id: "9"
     },
     fields: {
-      name: "family economy",
+      name: "Model 9",
       slug: "family-economy",
       type: "family",
       price: 300,
@@ -541,7 +541,7 @@ export default [
       id: "10"
     },
     fields: {
-      name: "family basic",
+      name: "Model 10",
       slug: "family-basic",
       type: "family",
       price: 350,
@@ -598,7 +598,7 @@ export default [
       id: "11"
     },
     fields: {
-      name: "family standard",
+      name: "Model 11",
       slug: "family-standard",
       type: "family",
       price: 400,
@@ -655,7 +655,7 @@ export default [
       id: "12"
     },
     fields: {
-      name: "family deluxe",
+      name: "Model 12",
       slug: "family-deluxe",
       type: "family",
       price: 500,
@@ -712,7 +712,7 @@ export default [
       id: "13"
     },
     fields: {
-      name: "presidential",
+      name: "Model 13",
       slug: "presidential-room",
       type: "presidential",
       price: 600,
@@ -769,7 +769,7 @@ export default [
       id: "14"
     },
     fields: {
-      name: "modern basic",
+      name: "Model 14",
       slug: "modern-basic",
       type: "bathroom",
       price: 150,
@@ -826,7 +826,7 @@ export default [
       id: "15"
     },
     fields: {
-      name: "modern basic",
+      name: "Model 15",
       slug: "modern-basic",
       type: "bathroom",
       price: 150,
@@ -883,7 +883,7 @@ export default [
       id: "16"
     },
     fields: {
-      name: "modern living",
+      name: "Model 16",
       slug: "modern-living",
       type: "livingroom",
       price: 150,

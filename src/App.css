@@ -202,7 +202,8 @@ h6 {
 .defaultHero{
   min-height: calc(100vh - 66px);
   background-image: url("./images/3.jpg");
- background-size: cover;
+  background-repeat: no-repeat;
+ background-size: contain;
  content: "";
  display: flex;
 
@@ -214,6 +215,11 @@ h6 {
 
   align-items: center;
   justify-content: center;
+}
+@media (min-width: 768px) {
+  .defaultHero {
+    background-size: cover;
+  }
 }
 .roomsHero {
   min-height: calc(100vh - 66px);
