@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "eslint": "^6.2.2",
+    "eslint": "^9.39.1",
     "google-map-react": "^1.1.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-ga": "^2.6.0",
     "react-icons": "^3.7.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.0",
+    "react-scripts": "5.0.1",
     "styled-components": "^4.3.2",
     "typescript": "^3.5.3"
   },
